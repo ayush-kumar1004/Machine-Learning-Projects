@@ -4,7 +4,7 @@ This repository contains my key Machine Learning and Data Science projects, demo
 
 ---
 
-## 🚀 Projects Overview
+## Projects Overview
 
 ### 1. [Advanced Ecommerce Recommendation System](./Advanced%20Ecommerce%20Recommendation%20System/)
 Engineered a content-based recommendation engine for e-commerce products using NLP techniques, semantic similarity, and word embeddings.
