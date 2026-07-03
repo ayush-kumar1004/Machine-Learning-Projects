@@ -1,0 +1,12 @@
+# Python cache / logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# System files
+.DS_Store
